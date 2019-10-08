@@ -1,0 +1,27 @@
+{
+  "name": "kockice",
+  "version": "1.0.0",
+  "description": "elementary pack",
+  "main": "kockice.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tadija84/kockice.git"
+  },
+  "keywords": [
+    "kockice",
+    "elementary",
+    "pack"
+  ],
+  "author": "tadija",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tadija84/kockice/issues"
+  },
+  "homepage": "https://github.com/tadija84/kockice#readme",
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
+}
