@@ -11,11 +11,11 @@ function addNewRect(i, j) {
   var rect = new fabric.Rect({
     id: indexOfRect,
     fill: "#fbfcf2",
-    width: 100,
-    height: 100,
+    width: 50,
+    height: 50,
     stroke: "#eee",
-    left: j * 100,
-    top: i * 100,
+    left: j * 50,
+    top: i * 50,
     i: i + 1,
     j: j + 1
   });
